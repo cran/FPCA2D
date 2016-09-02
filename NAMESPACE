@@ -1,0 +1,3 @@
+#exportPattern("^[[:alpha:]]+")
+export(FPCA_2D_score_fast)
+import(graphics,grDevices,stats,utils,corpcor)
